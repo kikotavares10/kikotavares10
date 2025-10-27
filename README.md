@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A 3rd Year Student of Artificial Intelligence and Data Science at FCUP</h3>
+<h3 align="center">A 1st Year Master Student of Artificial Intelligence at FEUP and FCUP</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
